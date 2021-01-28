@@ -1,7 +1,6 @@
 # DockerMySQL5.7
 
-元ネタ
-https://qiita.com/A-Kira/items/f401aea261693c395966
+元ネタ https://qiita.com/A-Kira/items/f401aea261693c395966
 
 ```
 $ docker-compose up -d
